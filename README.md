@@ -1,2 +1,2 @@
-# deep_pipe_tutorial
+# dpipe_tutorial
 Tutorial for deep pipe library
